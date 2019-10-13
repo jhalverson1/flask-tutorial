@@ -1,2 +1,3 @@
 instance/
-flasker/__pycache__/*
+flasker/__pycache__*
+.DS_Store
